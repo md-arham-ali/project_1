@@ -1,0 +1,166 @@
+
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #f1e8d5;
+}
+
+.msainitiatives-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.msainitiatives-msainitiatives {/* for the body */
+  width: 25%;
+  height: 775px;
+  display: flex;
+  position: relative;
+  align-items: center;/* flex-start */
+  flex-shrink: 0;
+  
+}
+
+.msainitiatives-devider22 {/* the divider under text MSA INTITIATIVE*/
+  top: 85px;
+  left: 25px;
+  width: 324px;
+  height: 18px;
+  position: absolute;
+}
+.msainitiatives-text {
+  top: 0px;
+  left: -40px;
+  color: rgba(0, 0, 0, 1);
+  width: 474px;
+  height: 94;
+  position: absolute;
+  font-size: 62px;
+  font-style: Bold;
+  text-align: center;
+  font-family: El Messiri, Arial, sans-serif;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.msainitiatives-vector {
+  top: 157px;
+  left: 167px;
+  width: 70px;
+  height: 56px;
+  position: absolute;
+}
+.msainitiatives-vector1 {
+  top: 157px;
+  left: -204px;
+  width: 49px;
+  height: 56px;
+  position: absolute;
+}
+.msainitiatives-text02 {
+  top: 218px;
+  left: 138px;
+  color: rgba(0, 0, 0, 1);
+  width: 174px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: left;
+  font-family: El Messiri;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.msainitiatives-text04 {
+  top: 222px;
+  left: -211px;
+  color: rgba(0, 0, 0, 1);
+  width: 67px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: left;
+  font-family: El Messiri;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.msainitiatives-raphaelpeople2 {
+  top: 163px;
+  left: 549px;
+  width: 70px;
+  height: 55px;
+  position: absolute;
+}
+.msainitiatives-text06 {
+  top: 217px;
+  left: 442px;
+  color: rgba(0, 0, 0, 1);
+  width: 293px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: left;
+  font-family: El Messiri;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.msainitiatives-text08 {
+  top: 293px;
+  left: 459px;
+  color: rgba(0, 0, 0, 1);
+  width: 252px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: El Messiri;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.msainitiatives-text10 {
+  top: 293px;
+  left: 78px;
+  color: rgba(0, 0, 0, 1);
+  width: 256px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: El Messiri;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.msainitiatives-text12 {
+  top: 293px;
+  left: -312px;
+  color: rgba(0, 0, 0, 1);
+  width: 273px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: El Messiri;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
